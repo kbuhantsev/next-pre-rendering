@@ -8,6 +8,8 @@ export default function Home() {
       <hr />
       <Link href="/posts">Posts - &gt;</Link>
       <hr />
+      <Link href="/products">Products - &gt;</Link>
+      <hr />
       <Link href="/news">News - &gt;</Link>
       <hr />
       <Link href="/dashboard">Dashboard - &gt;</Link>
